@@ -1,0 +1,14 @@
+.createform {
+  color: whitesmoke !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px !important;
+}
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #c95c5c;
+  color: whitesmoke;
+  flex-direction: column;
+}
